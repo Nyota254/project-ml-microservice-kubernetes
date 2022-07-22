@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+## Build status
+[![<Nyota254>](https://circleci.com/gh/Nyota254/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/Nyota254/project-ml-microservice-kubernetes/1/workflows/0bffd5c4-93ac-44e0-abb0-dc372b020b97/jobs/1)
 
 ## Project Overview
 
