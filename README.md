@@ -34,3 +34,10 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Files in repo
+1. app.py: contains the flask 
+2. Dockerfile: contains the docker istructions
+3. make_prediction: script that runs the test data
+4. run_docker: script that builds and runs application with docker
+5. run_kubernetes: script that runs application using kubernetes
